@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "guantes",
+    "description": "Auriculares con cancelación de ruido y sonido envolvente.",
+    "image": "https://i.pinimg.com/736x/53/2e/2d/532e2ddd24dd70f39a5fb09e4da82553.jpg",
+    "price": 59.99
+  },
+  {
+    "id": 2,
+    "name": "Botas",
+    "description": "Reloj inteligente con monitor de frecuencia cardíaca y GPS integrado.",
+    "image": "https://i.pinimg.com/736x/a5/4f/40/a54f40116e17204a29db83bcff2afbc5.jpg",
+    "price": 99.99
+  },
+  {
+    "id": 3,
+    "name": "Zapatos",
+    "description": "Teclado mecánico con retroiluminación RGB personalizable.",
+    "image": "https://i.pinimg.com/736x/ae/fc/9c/aefc9c896709b39bc757120e67907ed8.jpg",
+    "price": 79.99
+  },
+  {
+    "id": 4,
+    "name": "Camiseta",
+    "description": "Mochila con compartimento para laptop y cierre de seguridad oculto.",
+    "image": "https://i.pinimg.com/736x/be/ed/58/beed5856ef6f0962b48889696d459baa.jpg",
+    "price": 45.50
+  },
+  {
+    "id": 5,
+    "name": "Aretes",
+    "description": "Cámara web con micrófono incorporado y enfoque automático.",
+    "image": "https://i.pinimg.com/736x/d0/bf/2a/d0bf2a2f91c52b84090181a5bc205f8c.jpg",
+    "price": 34.99
+  }
+]
